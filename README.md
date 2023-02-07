@@ -25,3 +25,5 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=32&duration=1&color=F7F7F7&background=0d1117&vCenter=true&repeat=false&width=1080&height=72&lines=Github+Statistics" alt="Typing SVG" />
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=panupongkeawkam&theme=graywhite&show_icons=true)
+
+<br>
