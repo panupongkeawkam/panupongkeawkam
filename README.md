@@ -6,22 +6,22 @@
 
 <img src="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=32&duration=1&color=F7F7F7&background=0d1117&vCenter=true&repeat=false&width=1080&height=72&lines=Language+%26+Framwork" alt="Typing SVG" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23EFEFF6.svg?style=for-the-badge&logo=JavaScript&logoColor=black&?color=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%23EFEFF6.svg?style=for-the-badge&logo=Vue.js&logoColor=black&?color=black)
-![Express](https://img.shields.io/badge/Express-%23EFEFF6.svg?style=for-the-badge&logo=Express&logoColor=black&?color=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23EFEFF6.svg?style=for-the-badge&logo=HTML5&logoColor=black&?color=black)
-![React](https://img.shields.io/badge/React-%23EFEFF6.svg?style=for-the-badge&logo=React&logoColor=black&?color=black)
-![CSS](https://img.shields.io/badge/CSS3-%23EFEFF6.svg?style=for-the-badge&logo=CSS3&logoColor=black&?color=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23EFEFF6.svg?style=for-the-badge&logo=node.js&logoColor=black&?color=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23EFEFF6.svg?style=for-the-badge&logo=Bootstrap&logoColor=black&?color=black)
-![React Native](https://img.shields.io/badge/React%20Native-%23EFEFF6.svg?style=for-the-badge&logo=React&logoColor=black&?color=black)
-![Bulma](https://img.shields.io/badge/Bulma-%23EFEFF6.svg?style=for-the-badge&logo=Bulma&logoColor=black&?color=black)
-![Java](https://img.shields.io/badge/Java-%23EFEFF6.svg?style=for-the-badge&logo=Java&logoColor=black&?color=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23EFEFF6.svg?style=for-the-badge&logo=MongoDB&logoColor=black&?color=black)
-![MySQL](https://img.shields.io/badge/MySQL-%23EFEFF6.svg?style=for-the-badge&logo=MySQL&logoColor=black&?color=black)
-![Spring Boot](https://img.shields.io/badge/Spring+Boot-%23EFEFF6.svg?style=for-the-badge&logo=Spring+Boot&logoColor=black&?color=black)
-![Python](https://img.shields.io/badge/Python-%23EFEFF6.svg?style=for-the-badge&logo=Python&logoColor=black&?color=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFFFF.svg?style=for-the-badge&logo=JavaScript&logoColor=black&?color=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%23FFFFFF.svg?style=for-the-badge&logo=Vue.js&logoColor=black&?color=black)
+![Express](https://img.shields.io/badge/Express-%23FFFFFF.svg?style=for-the-badge&logo=Express&logoColor=black&?color=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23FFFFFF.svg?style=for-the-badge&logo=HTML5&logoColor=black&?color=black)
+![React](https://img.shields.io/badge/React-%23FFFFFF.svg?style=for-the-badge&logo=React&logoColor=black&?color=black)
+![CSS](https://img.shields.io/badge/CSS3-%23FFFFFF.svg?style=for-the-badge&logo=CSS3&logoColor=black&?color=black)<br>
+![Node.js](https://img.shields.io/badge/Node.js-%23FFFFFF.svg?style=for-the-badge&logo=node.js&logoColor=black&?color=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23FFFFFF.svg?style=for-the-badge&logo=Bootstrap&logoColor=black&?color=black)
+![React Native](https://img.shields.io/badge/React%20Native-%23FFFFFF.svg?style=for-the-badge&logo=React&logoColor=black&?color=black)
+![Bulma](https://img.shields.io/badge/Bulma-%23FFFFFF.svg?style=for-the-badge&logo=Bulma&logoColor=black&?color=black)
+![Java](https://img.shields.io/badge/Java-%23FFFFFF.svg?style=for-the-badge&logoColor=black&?color=black&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA8klEQVQ4jY3SvS5EURTF8Z8hI8ZIfDTmAVBIptLQqT2ARKOeUqXzAJ5AolIqPYBEoSER0ZBQS0xIRHyEia/ibslx5zJ3V+fsc/7rrLVz6F1zRc1KD2gNzVj3lQGHsYtZXGMD4yXc2Qywgkv0l7W6jyt84gzT+QtdSqjiBm+4wwMuQgS+isBVHOAj9k3U8YwatiOCgRy4g/lQf0+EzzGJx/+strEcYAMdHGEKWz+W0xcnMCYb/wsWcY9bDOIkifCrjrGue9JVLKGVNtPf0MBKWBqKPB084RCnWMBeHhTADEYxIvst9YjRlg3vtchuvmp/HXwDtaAvj7RXk4AAAAAASUVORK5CYII=)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23FFFFFF.svg?style=for-the-badge&logo=MongoDB&logoColor=black&?color=black)<br>
+![MySQL](https://img.shields.io/badge/MySQL-%23FFFFFF.svg?style=for-the-badge&logo=MySQL&logoColor=black&?color=black)
+![Spring Boot](https://img.shields.io/badge/Spring+Boot-%23FFFFFF.svg?style=for-the-badge&logo=Spring+Boot&logoColor=black&?color=black)
+![Python](https://img.shields.io/badge/Python-%23FFFFFF.svg?style=for-the-badge&logo=Python&logoColor=black&?color=black)
 
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=32&duration=1&color=F7F7F7&background=0d1117&vCenter=true&repeat=false&width=1080&height=72&lines=Github+Statistics" alt="Typing SVG" /></a>
+<img src="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=32&duration=1&color=F7F7F7&background=0d1117&vCenter=true&repeat=false&width=1080&height=72&lines=Github+Statistics" alt="Typing SVG" />
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=panupongkeawkam&theme=graywhite&show_icons=true)
