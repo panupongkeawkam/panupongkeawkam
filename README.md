@@ -45,6 +45,6 @@
   <img src="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=32&duration=1&color=DC3545&repeat=false&width=1080&height=56&lines=Content+render+incorrectly">
 </picture>
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=panupongkeawkam&theme=graywhite&show_icons=true)
+![github-stats](https://github-readme-stats.vercel.app/api?username=panupongkeawkam&show_icons=true&hide_border=true&border_radius=0&card_width=600&text_bold=false&hide_title=true&bg_color=F7F7F7&text_color=070707&title_color=070707&icon_color=2A2A2A)
 
 <br>
