@@ -1,12 +1,8 @@
-<img src="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=48&duration=1&color=F7F7F7&background=0d1117&vCenter=true&repeat=false&width=1080&height=72&lines=Hello+|+はじめまして" alt="Typing SVG" />
-
-<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=48&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=1080&height=72&lines=Hello+|+はじめまして">
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=400&size=72&duration=1&color=F7F7F7&repeat=false&width=1080&height=126&lines=はじめまして+ · +Hello">
   <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=48&duration=1&color=070707&vCenter=true&repeat=false&width=1080&height=72&lines=Hello+|+はじめまして">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-</p>
 
 <img src="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=16&duration=2000&color=DADADA&background=0d1117&vCenter=true&multiline=true&repeat=false&width=1080&height=220&lines=Hajimemashite+my+name+is+Panupong+Keawkam+you+can+call+me+PANU;I'm+current+study+in+Information+Technology+at+King+Mongkut's+Institute+of+Technology+Ladkrabang;I+like+to+design+an+application+UI;I'm+usually+use+Vue.js+to+dev+a+frontend+of+web+app;I'm+often+use+Express.js+to+be+a+backend+and+MySQL+for+database;I'm+learning+to+be+a+Frontend+Developer;I+had+learn+Mobile+App%2C+Microservice%2C+Object-Oriented+and+CQRS+etc.;Currently+I'm+learning+AWS%2C+Cloud+Based+and+Docker" alt="Typing SVG" />
 
