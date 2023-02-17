@@ -18,7 +18,12 @@
   <img src="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=32&duration=1&color=DC3545&repeat=false&width=1080&height=56&lines=Content+render+incorrectly">
 </picture>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFFFF.svg?style=for-the-badge&logo=JavaScript&logoColor=black&?color=black)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-%23F7F7F7.svg?style=for-the-badge&logo=JavaScript&logoColor=%23070707&?color=%23070707">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-%23070707.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7F7F7&?color=%23F7F7F7">
+  <img src="https://img.shields.io/badge/404-%23DC3545.svg?style=for-the-badge&logoColor=%23F7F7F7&?color=%23F7F7F7">
+</picture>
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-%23FFFFFF.svg?style=for-the-badge&logo=Vue.js&logoColor=black&?color=black)
 ![Express](https://img.shields.io/badge/Express-%23FFFFFF.svg?style=for-the-badge&logo=Express&logoColor=black&?color=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23FFFFFF.svg?style=for-the-badge&logo=HTML5&logoColor=black&?color=black)
