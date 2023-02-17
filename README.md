@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=400&size=72&duration=1&color=F7F7F7&repeat=false&width=1080&height=126&lines=はじめまして+ · +Hello">
-  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=48&duration=1&color=070707&vCenter=true&repeat=false&width=1080&height=72&lines=Hello+|+はじめまして">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=400&size=72&duration=1&color=070707&repeat=false&width=1080&height=126&lines=はじめまして+ · +Hello">
   <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
