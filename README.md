@@ -1,5 +1,13 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=48&duration=1&color=F7F7F7&background=0d1117&vCenter=true&repeat=false&width=1080&height=72&lines=Hello+|+はじめまして" alt="Typing SVG" />
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=48&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=1080&height=72&lines=Hello+|+はじめまして">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=48&duration=1&color=070707&vCenter=true&repeat=false&width=1080&height=72&lines=Hello+|+はじめまして">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+</p>
+
 <img src="http://readme-typing-svg.herokuapp.com?font=Azeret+Mono&weight=200&size=16&duration=2000&color=DADADA&background=0d1117&vCenter=true&multiline=true&repeat=false&width=1080&height=220&lines=Hajimemashite+my+name+is+Panupong+Keawkam+you+can+call+me+PANU;I'm+current+study+in+Information+Technology+at+King+Mongkut's+Institute+of+Technology+Ladkrabang;I+like+to+design+an+application+UI;I'm+usually+use+Vue.js+to+dev+a+frontend+of+web+app;I'm+often+use+Express.js+to+be+a+backend+and+MySQL+for+database;I'm+learning+to+be+a+Frontend+Developer;I+had+learn+Mobile+App%2C+Microservice%2C+Object-Oriented+and+CQRS+etc.;Currently+I'm+learning+AWS%2C+Cloud+Based+and+Docker" alt="Typing SVG" />
 
 <img src="https://img.wattpad.com/3a9597d78c621bb9165cd1fe38b8787bbfb01509/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4f554459593836576c51317a44413d3d2d3837383239303039302e313631303731383734313262633435633735343332313839333531372e676966" width="100%" />
