@@ -44,13 +44,13 @@
 <picture>
   <!-- Vue.js -->
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue.js-%23F7F7F7.svg?style=for-the-badge&logo=Vue.js&logoColor=%23070707&?color=%23070707">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vue.js-%23070707.svg?style=for-the-badge&logo=Vue.js&logoColor=%23070707&?color=%23070707">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vue.js-%23070707.svg?style=for-the-badge&logo=Vue.js&logoColor=%23F7F7F7&?color=%23F7F7F7">
   <img src="https://img.shields.io/badge/404-%23DC3545.svg?style=for-the-badge&logoColor=%23F7F7F7&?color=%23F7F7F7">
 </picture>
 <picture>
   <!-- Redux -->
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redux-%23F7F7F7.svg?style=for-the-badge&logo=Redux&logoColor=%23070707&?color=%23070707">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Redux-%23070707.svg?style=for-the-badge&logo=Redux&logoColor=%23070707&?color=%23070707">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Redux-%23070707.svg?style=for-the-badge&logo=Redux&logoColor=%23F7F7F7&?color=%23F7F7F7">
   <img src="https://img.shields.io/badge/404-%23DC3545.svg?style=for-the-badge&logoColor=%23F7F7F7&?color=%23F7F7F7">
 </picture>
 <picture>
