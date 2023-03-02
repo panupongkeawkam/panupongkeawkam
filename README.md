@@ -17,8 +17,8 @@
 
 <!-- Divider -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=B7B7B7&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%83%9D+%E2%83%9D+%E2%83%9D">
-  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=474747&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%83%9D+%E2%83%9D+%E2%83%9D">
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=B7B7B7&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%97%AF+%E2%97%AF+%E2%97%AF">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=474747&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%97%AF+%E2%97%AF+%E2%97%AF">
   <img src="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=32&duration=1&color=DC3545&repeat=false&width=1080&height=56&lines=Content+render+incorrectly">
 </picture>
 
@@ -276,8 +276,8 @@
 
 <!-- Divider -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=B7B7B7&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%83%9D+%E2%83%9D+%E2%83%9D">
-  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=474747&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%83%9D+%E2%83%9D+%E2%83%9D">
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=B7B7B7&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%97%AF+%E2%97%AF+%E2%97%AF">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=474747&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%97%AF+%E2%97%AF+%E2%97%AF">
   <img src="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=32&duration=1&color=DC3545&repeat=false&width=1080&height=56&lines=Content+render+incorrectly">
 </picture>
 
@@ -297,8 +297,8 @@
 
 <!-- Divider -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=B7B7B7&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%83%9D+%E2%83%9D+%E2%83%9D">
-  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=474747&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%83%9D+%E2%83%9D+%E2%83%9D">
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=B7B7B7&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%97%AF+%E2%97%AF+%E2%97%AF">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=1&color=474747&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=%E2%97%AF+%E2%97%AF+%E2%97%AF">
   <img src="http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=32&duration=1&color=DC3545&repeat=false&width=1080&height=56&lines=Content+render+incorrectly">
 </picture>
 
