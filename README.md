@@ -290,9 +290,19 @@
 
 <!-- Stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=panupongkeawkam&show_icons=true&hide_border=true&border_radius=0&card_width=1080&hide_title=true&bg_color=F7F7F7&text_color=070707&title_color=070707&icon_color=070707">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=panupongkeawkam&show_icons=true&hide_border=true&border_radius=0&card_width=1080&hide_title=true&bg_color=070707&text_color=F7F7F7&title_color=F7F7F7&icon_color=F7F7F7">
-  <img src="https://github-readme-stats.vercel.app/api?username=panupongkeawkam&show_icons=true&hide_border=true&border_radius=0&card_width=600&hide_title=true&bg_color=F7F7F7&text_color=070707&title_color=070707&icon_color=070707">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=panupongkeawkam&show_icons=true&hide_border=true&border_radius=0&hide_title=true&bg_color=F7F7F7&text_color=070707&title_color=070707&icon_color=070707&card_width=495">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=panupongkeawkam&show_icons=true&hide_border=true&border_radius=0&hide_title=true&bg_color=070707&text_color=F7F7F7&title_color=F7F7F7&icon_color=F7F7F7&card_width=495">
+  <img src="https://github-readme-stats.vercel.app/api?username=panupongkeawkam&show_icons=true&hide_border=true&border_radius=0&hide_title=true&bg_color=F7F7F7&text_color=070707&title_color=070707&icon_color=070707&card_width=495">
+</picture>
+
+<br>
+<br>
+
+<!-- Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=panupongkeawkam&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=F7F7F7&border=F7F7F7&stroke=F7F7F7&ring=070707&fire=070707&currStreakNum=070707&sideNums=070707&currStreakLabel=070707&sideLabels=070707&dates=070707)](https://git.io/streak-stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=panupongkeawkam&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=070707&border=070707&stroke=070707&ring=F7F7F7&fire=F7F7F7&currStreakNum=F7F7F7&sideNums=F7F7F7&currStreakLabel=F7F7F7&sideLabels=F7F7F7&dates=F7F7F7)](https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panupongkeawkam&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=F7F7F7&border=F7F7F7&stroke=F7F7F7&ring=070707&fire=070707&currStreakNum=070707&sideNums=070707&currStreakLabel=070707&sideLabels=070707&dates=070707)](https://git.io/streak-stats">
 </picture>
 
 <!-- Divider -->
